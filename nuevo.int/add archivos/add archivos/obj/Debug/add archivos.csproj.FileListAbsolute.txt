@@ -1,0 +1,7 @@
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\bin\Debug\add archivos.exe.config
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\bin\Debug\add archivos.exe
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\bin\Debug\add archivos.pdb
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\obj\Debug\add archivos.csproj.AssemblyReference.cache
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\obj\Debug\add archivos.csproj.CoreCompileInputs.cache
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\obj\Debug\add archivos.exe
+C:\Users\UCA40411\Downloads\nuevo.int\add archivos\add archivos\obj\Debug\add archivos.pdb
